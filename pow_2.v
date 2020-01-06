@@ -76,5 +76,5 @@ Proof.
 Qed.
 
 
-(** Test it out. *)
+(** Try it out. *)
 Eval compute in (next_pow_2 65).
